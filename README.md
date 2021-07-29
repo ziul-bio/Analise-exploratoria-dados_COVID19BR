@@ -31,4 +31,4 @@ Nesta análise usarei algumas ferramentas e métodos de análise de dados, tais 
 https://www.who.int/ \
 https://covid.saude.gov.br/
 
-Att. Luiz
+Att. Luiz.
