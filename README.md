@@ -30,3 +30,5 @@ Nesta análise usarei algumas ferramentas e métodos de análise de dados, tais 
 ### Referências
 https://www.who.int/ \
 https://covid.saude.gov.br/
+
+Att. Luiz
