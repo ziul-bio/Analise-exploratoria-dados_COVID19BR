@@ -3,6 +3,8 @@
 
 Dataset disponibilizados pelo Ministério da Saúde, [Link](https://covid.saude.gov.br/)\
 Data de download: 15/07/2021
+Também disponibilizei no repositório, um dataset com as coordenadas de latitude e longitude dos municípios,
+para fazermos a análise da distribuição geográfica da COVID-19 no Brasil.
 
 ### Introdução
 COVID-19 é a doença causada por um novo coronavírus denominado SARS-CoV-2. A OMS tomou conhecimento deste novo vírus em 31 de dezembro de 2019, após um relatório de um grupo de casos de "pneumonia viral" em Wuhan, na República Popular da China.
