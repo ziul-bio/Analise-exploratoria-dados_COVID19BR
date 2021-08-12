@@ -15,7 +15,7 @@ Atuou como Técnico de Laboratório (Trainne) e Pesquisador (Mestrando) no Centr
 de pesquisa e desenvolvimento em virologia.
 Mais recentemente, atuou como Analista de Laboratório no controle de qualidade biológica, realizando testes de controle de qualidade de vacinas virais.
 
-** Experiência em: ** Biologia Celular e Molecular, virologia, Python, Análise exploratória de dados, Pandas, Matplotlib.
+**Experiência em:** Biologia Celular e Molecular, virologia, Python, Análise exploratória de dados, Pandas, Matplotlib.
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/luiz-carlos-vieira-4582797b/)
 
