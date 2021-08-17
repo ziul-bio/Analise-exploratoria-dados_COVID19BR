@@ -8,11 +8,10 @@
 <sub>*Biólogo* aspirante a uma carreira de analista de dados biológicos / Bioinformáta</sub>
 
 Possui graduação em Ciências Biológicas e Mestrado em Ciências pelo Departamento de Biologia Celular e Molecular e Bioagentes Patogênicos.
-Atuou como Técnico de Laboratório (Trainne) e Pesquisador (Mestrando) no Centro de Pesquisas em Virologia (USP), onde desenvolveu atividades
-de pesquisa e desenvolvimento em virologia.
+Atuou como Técnico de Laboratório (Trainne) e Pesquisador (Mestrando) no Centro de Pesquisas em Virologia (USP).
 Recentemente, atuou como Analista de Laboratório no controle de qualidade biológica, realizando testes de controle de qualidade de vacinas virais.
 
-**Experiência em:** Biologia Celular e Molecular, virologia, Python, Análise exploratória de dados, Pandas, Matplotlib.
+**Experiência em:** Biologia Celular e Molecular, Virologia, Python, Análise Exploratória de Dados, Pandas, Matplotlib.
 
 **Links:**
 
